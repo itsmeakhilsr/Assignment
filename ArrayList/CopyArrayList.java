@@ -1,3 +1,4 @@
+//9. Write a Java program to copy one array list into another.
 import java.util.ArrayList;
 
 public class CopyArrayList {

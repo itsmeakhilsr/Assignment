@@ -1,3 +1,4 @@
+//2. Write a Java program to iterate through all elements in a linked list.
 package LinkedList;
 import java.util.LinkedList;
 

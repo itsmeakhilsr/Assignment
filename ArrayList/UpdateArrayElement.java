@@ -1,3 +1,4 @@
+//5. Write a Java program to update an array element by the given element.
 import java.util.ArrayList;
 
 public class UpdateArrayElement {
